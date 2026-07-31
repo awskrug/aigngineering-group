@@ -26,9 +26,8 @@ AI 엔지니어링 소모임은 생성형 AI 시대에 새롭게 바뀌는 실�
 #### 2026년 7월 - 실전 GenAI 애플리케이션 만들기
 * **날짜**: 2026년 7월 29일
 * **모임 링크**: [Meetup](https://www.meetup.com/awskrug/events/315678453/)
-* **실습자료**: [Notion Workshop](https://maddening-pangolin-440.notion.site/7-29-Agentic-AI-3abaf06b3f3b80d7a3ced69c214be185)
 * **발표내용**:
-  * **실전 GenAI 애플리케이션 만들기 - Hands-on Workshop (이은지, AI Engineering 오거나이저)**
+  * **실전 GenAI 애플리케이션 만들기 - Hands-on Workshop (이은지, AI Engineering 오거나이저)** [실습자료](https://catalog.us-east-1.prod.workshops.aws/workshops/eb18d538-bf1f-49b9-9747-c474953deee1/en-US), [추가자료](https://maddening-pangolin-440.notion.site/7-29-Agentic-AI-3abaf06b3f3b80d7a3ced69c214be185)
     * AI Agent의 System Prompt 설계
     * Tool Calling을 활용한 Agent 기능 확장
     * AWS Lambda를 이용한 Agent 배포
